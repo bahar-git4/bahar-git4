@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Merhaba,%20Bahar%20%C4%B1ld%C4%B1z%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlign=48&desc=%C3%B6netim%20Bili%C5%9Fim%20Sistemleri%20%C3%96%C4%9Frencisiyim&descAlign=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Merhaba,%20Bahar%20%C4%B1ld%C4%B1z%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlign=48&desc=Y%C3%B6netim%20Bili%C5%9Fim%20Sistemleri%20%C3%96%C4%9Frencisiyim&descAlign=60&descSize=18" width="100%"/>
   <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack%20Web%20Developer;Mobile%20App%20Developer%20(Flutter);.NET%20Core%20%26%20Spring%20Boot%20Enthusiast;AI%20%26%20Machine%20Learning%20Learner" alt="Typing SVG" />
