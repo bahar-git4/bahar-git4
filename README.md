@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack%20Web%20Developer;Mobile%20App%20Developer%20(Flutter);.NET%20Core%20%26%20Spring%20Boot%20Enthusiast;AI%20%26%20Machine%20Learning%20Learner" alt="Typing SVG" />
   </a>
   <br>
-  <img src="https://komarew.github.io/ghpvc/?username=bahar-git4&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+  <img src="https://github-profile-views-counter.vercel.app/kCounts?username=bahar-git4&color=38BDF8&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Building%20Projects-38BDF8?style=for-the-badge" />
 </div>
 
